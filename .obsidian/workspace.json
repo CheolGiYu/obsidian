@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "d04f31aa9c1edabc",
+    "type": "split",
+    "children": [
+      {
+        "id": "40a814cb3f503055",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cac311f0656f5bfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e142b992cb00d56",
+    "type": "split",
+    "children": [
+      {
+        "id": "50a619a0431fd46b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d717fb41704e742",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01316bf57abfc71f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe4c3850e6808a10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bf813adee712bdfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "915a352b0e8d96b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e1770891743b04e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cloud Service.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43cb8c7a30bcd787",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cloud Service.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64944b774fc1aa71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a55c8c250fdabc2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cloud Service.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "cac311f0656f5bfd",
+  "lastOpenFiles": [
+    "Database.md",
+    "WebServer.md",
+    "개발/개념/Cloud Service/VPS.md",
+    "프로그램",
+    "개발/개념/Cloud Service/Lightsail.md",
+    "개발/계획/Lightsail.md",
+    "Cloud Service.md",
+    "S3.md",
+    "AWS.md",
+    "개발/개념/Cloud Service",
+    "용어.md",
+    "MYSQL.md",
+    "개발/개념",
+    "개발/무제 파일.md",
+    "^^Compute Instance.md",
+    "^Compute Instance.md",
+    "컴퓨트 인트턴.md",
+    "개발/계획",
+    "개발",
+    "무제 파일 1.md"
+  ]
+}
