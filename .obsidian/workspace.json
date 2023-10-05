@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Service.md",
+                "file": "개발/계획/Lightsail.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Service.md",
+                "file": "개발/계획/Lightsail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Service.md",
+                "file": "개발/계획/Lightsail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Service.md"
+                "file": "개발/계획/Lightsail.md"
               }
             }
           }
@@ -148,13 +148,19 @@
   },
   "active": "cac311f0656f5bfd",
   "lastOpenFiles": [
-    "Database.md",
+    "도메인 넘어감.md",
+    "개발/계획/Lightsail.md",
+    "Nginx.md",
+    "certbot.md",
+    "Let's Encrypt.md",
+    "dhparam.md",
+    "DH Param.md",
+    "Cloud Service.md",
     "WebServer.md",
+    "Database.md",
     "개발/개념/Cloud Service/VPS.md",
     "프로그램",
     "개발/개념/Cloud Service/Lightsail.md",
-    "개발/계획/Lightsail.md",
-    "Cloud Service.md",
     "S3.md",
     "AWS.md",
     "개발/개념/Cloud Service",
