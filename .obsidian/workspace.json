@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/개인/계정.md",
+                "file": "DH Param.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/개인/계정.md",
+                "file": "DH Param.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/개인/계정.md",
+                "file": "DH Param.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/개인/계정.md"
+                "file": "DH Param.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "ff0c239b9e2c2eef",
   "lastOpenFiles": [
+    "private/개인/계정.md",
     "도메인 넘어감.md",
     "개발/계획/Lightsail.md",
     "개발/계획",
@@ -180,7 +181,6 @@
     "private/일기/2023/09/2023-09-28.md",
     "무제 파일.md",
     "TEST.md",
-    "private/개인/계정.md",
     "private/개인",
     "private/개인",
     "private/계정/in.md",
