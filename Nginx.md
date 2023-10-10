@@ -55,3 +55,42 @@ ssl_prefer_server_ciphers off;
 
 사이트 안정성 확인 사이트
 https://www.ssllabs.com/ssltest/
+
+
+
+-----
+```
+#upstream app {
+#       ip_hash;
+#       server 172.26.11.253:8000;
+#}
+server {
+listen 80;
+listen [::]:80;
+server_name kenaz-translation.srabb.net;
+location / {
+return 301 https://$host$request_uri;
+}
+#       return 404;
+}
+server {
+listen 443 ssl http2;
+listen [::]:443 ssl http2;
+server_name kenaz-translation.srabb.net;
+
+ssl_certificate /etc/letsencrypt/live/kenaz-translation.srabb.net/fullchain.pem;
+ssl_certificate_key /etc/letsencrypt/live/kenaz-translation.srabb.net/privkey.pem;
+ssl_dhparam /etc/nginx/ssl/dhparam.pem;
+ssl_prefer_server_ciphers off;
+ssl_protocols TLSv1.3;
+
+location / {
+proxy_pass_header Server;
+#               proxy_pass_request_headers off; //이거 하면 세션 공유 안됨
+proxy_pass http://172.26.11.253:8000;
+#       proxy_pass http://app;
+}
+}
+
+```
+

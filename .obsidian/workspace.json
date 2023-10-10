@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발/계획/Lightsail.md",
+                "file": "Nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발/계획/Lightsail.md",
+                "file": "Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발/계획/Lightsail.md",
+                "file": "Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발/계획/Lightsail.md"
+                "file": "Nginx.md"
               }
             }
           }
@@ -148,15 +149,23 @@
   },
   "active": "cac311f0656f5bfd",
   "lastOpenFiles": [
-    "도메인 넘어감.md",
-    "개발/계획/Lightsail.md",
-    "Nginx.md",
     "certbot.md",
+    "Nginx.md",
+    "obsidian_private/개발/사용 중 서버.md",
+    "WebServer.md",
+    "개발/계획/Lightsail.md",
+    "obsidian_private/개발",
+    "새 텍스트 문서.txt",
+    "obsidian_private/일기/2023/09/2023-09-27.md",
+    "obsidian_private/일기/2023/09",
+    "obsidian_private/일기/2023",
+    "obsidian_private/일기",
+    "obsidian_private",
+    "도메인 넘어감.md",
     "Let's Encrypt.md",
     "dhparam.md",
     "DH Param.md",
     "Cloud Service.md",
-    "WebServer.md",
     "Database.md",
     "개발/개념/Cloud Service/VPS.md",
     "프로그램",
@@ -172,7 +181,6 @@
     "^Compute Instance.md",
     "컴퓨트 인트턴.md",
     "개발/계획",
-    "개발",
     "무제 파일 1.md"
   ]
 }
